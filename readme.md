@@ -1,6 +1,6 @@
 ## este es el archivo readme
 
-*Seguir las instrucciones
+*Seguir las instrucciones*
 
 > 1.-
 > 2.-
